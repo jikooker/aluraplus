@@ -82,3 +82,11 @@ grid-template-columns: 50%  50%;
 .descricao__texto{
     color: var(--cinza-secundario);
 }
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao{
+    padding: 5em;
+}
