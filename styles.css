@@ -111,3 +111,20 @@ grid-template-columns: 50%  50%;
     font-size: 32px;
     color: var(--branco-principal);
 }
+
+.rodape__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 1em 0;
+
+}
+
+.rodape{
+    text-align: center;
+    margin: 0 3em;
+}
+
+.rodape__logo{
+    margin-bottom: 1em;
+}
